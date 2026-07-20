@@ -14,7 +14,7 @@ The following self-created, synthetic resources are dedicated to the public doma
 | 8 Opex.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
 | 9. Capex .xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
 | 10 Debt service.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
-| 11 Treasure policy.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 11 Treasury policy.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
 | 12 Revolver terms.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
 | 13 calendar.csv | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
 

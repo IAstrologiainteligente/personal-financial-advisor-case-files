@@ -14,7 +14,7 @@ This folder contains self-created, synthetic financial materials prepared for a 
 8. [8 Opex.xlsx](8%20Opex.xlsx) — operating expense schedule.
 9. [9. Capex .xlsx](9.%20Capex%20.xlsx) — capital expenditure commitments.
 10. [10 Debt service.xlsx](10%20Debt%20service.xlsx) — debt service schedule.
-11. [11 Treasure policy.xlsx](11%20Treasure%20policy.xlsx) — treasury and liquidity policy.
+11. [11 Treasury policy.xlsx](11%20Treasury%20policy.xlsx) — treasury and liquidity policy.
 12. [12 Revolver terms.xlsx](12%20Revolver%20terms.xlsx) — revolving credit facility terms.
 13. [13 calendar.csv](13%20calendar.csv) — business-day and bank-holiday calendar.
 
