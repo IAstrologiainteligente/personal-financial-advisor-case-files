@@ -1,28 +1,26 @@
 # License for Northstar Treasury Case Files
 
-**Declared license type:** Creative Commons CC0 1.0 Universal
+The following self-created, synthetic resources are dedicated to the public domain under **Creative Commons CC0 1.0 Universal**.
 
-## Covered resources
+| Resource name | Declared license | Permissions and attribution |
+|---|---|---|
+| 1 Bank balances.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 2 Accounts receivable.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 3 collection updates.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 4 Aging.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 5 Vendor updates.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 6 Payroll.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 7 Taxes.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 8 Opex.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 9. Capex .xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 10 Debt service.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 11 Treasure policy.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 12 Revolver terms.xlsx | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
+| 13 calendar.csv | CC0 1.0 Universal | Copy, modify, distribute, and use commercially; no attribution required. |
 
-This declaration applies to all of the following resources in the `northstar-treasury-case-files` folder:
+## Legal context
 
-1. 1 Bank balances.xlsx
-2. 2 Accounts receivable.xlsx
-3. 3 collection updates.xlsx
-4. 4 Aging.xlsx
-5. 5 Vendor updates.xlsx
-6. 6 Payroll.xlsx
-7. 7 Taxes.xlsx
-8. 8 Opex.xlsx
-9. 9. Capex .xlsx
-10. 10 Debt service.xlsx
-11. 11 Treasure policy.xlsx
-12. 12 Revolver terms.xlsx
-13. 13 calendar.csv
-
-## Permissions and legal context
-
-The owner dedicates these self-created, synthetic resources to the public domain under **CC0 1.0 Universal**. To the fullest extent permitted by law, anyone may copy, modify, distribute, and use them for any purpose, including commercial purposes, without requesting permission and without attribution.
+The owner applies **CC0 1.0 Universal** to the resources listed above and, to the fullest extent permitted by law, waives copyright and related rights in them. Anyone may use the resources for any purpose, including commercial purposes, without requesting permission and without attribution.
 
 The resources contain fictional financial information created for an exercise. They do not reproduce third-party datasets, employer documents, actual bank records, platform records, or personally identifying information.
 
